@@ -7,7 +7,7 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": false
     },
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "a-file-icon-vscode",
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "[javascript]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode",
