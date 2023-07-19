@@ -1,13 +1,12 @@
 {
+    "workbench.colorTheme": "Bearded Theme Coffee",
     "editor.fontFamily": "Cascadia Code, 'Victor Mono', Consolas, 'Courier New', monospace, Consolas",
     "editor.tabSize": 2,
     "editor.fontSize": 16,
     "editor.lineHeight": 25,
     "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": false
-    },
     "workbench.iconTheme": "a-file-icon-vscode",
+    "workbench.productIconTheme": "a-file-icon-vscode-product-icon-theme",
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "[javascript]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -16,12 +15,5 @@
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode",
         "editor.formatOnSave": true
-    },
-    "editor.bracketPairColorization.enabled": true,
-    "editor.guides.bracketPairs":"active",
-    "terminal.integrated.fontSize": 16,
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "editor.suggestSelection": "first",
-    "workbench.colorTheme": "Bearded Theme Coffee",
-    "workbench.productIconTheme": "material-product-icons"
+    }
 }
